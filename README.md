@@ -1,2 +1,3 @@
 # uber-clone-native
-Uber clone written in React Native
+Uber clone written in React Native.
+Uses google maps apis.
