@@ -1,2 +1,2 @@
 # uber-clone-native
-Uber clone written in react native
+Uber clone written in React Native
